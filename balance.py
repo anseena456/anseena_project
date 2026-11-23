@@ -3,7 +3,7 @@ print("===== BANK BALANCE CHECK =====")
 account_number = input("Enter your Account Number: ")
 pin = input("Enter your PIN: ")
 
-correct_account = "1234567890"
+correct_account = "1234567809"
 correct_pin = "1999"
 balance = 25000
 
